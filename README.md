@@ -1,21 +1,23 @@
-## Greetings 👋
+#### Greetings 👋
 
 I'm Eric, an aspiring data professional from Belize.
 
-In my day to day I run different analyses from different operational platforms -- mainly QGIS
+In my day to day I run different analyses from different operational platforms - mainly QGIS
 
 I enjoy exploring different data sets and making things make sense.
 
 This profile is going to be my central location for different personal projects that I do.
+
 ---
-## Tools & Tech
+#### Tools & Tech
 - Python
 - Excel
 - Power BI
 - PgAdmin4
 - QGIS
+
 ---
-## Personal Interests
+#### Personal Interests
 - Finance
 - Tech
 - Design
